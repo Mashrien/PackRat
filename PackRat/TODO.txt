@@ -1,0 +1,14 @@
+﻿Get Icons
+Extract entire path
+Encrypt/compress data
+-- De-Crypt/Compress
+Store begin-of-write offset for 'undo' if failure
+Build the ProcessStatus class
+
+Password protected archives
+ * AES 256-bit with userpass as salt (should be virtually uncrackable, fuck you NSA)
+
+-- USER INTERFACE UPGRADE
+ * Drag'n'Drop support
+   - Drop from Explorer
+   - Drag TO Explorer

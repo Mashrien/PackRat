@@ -1,0 +1,15 @@
+D:\Programming\VS2015 Projects\PackRat\PackRat\bin\Release\PackRat.exe.config
+D:\Programming\VS2015 Projects\PackRat\PackRat\bin\Release\PackRat.exe
+D:\Programming\VS2015 Projects\PackRat\PackRat\bin\Release\PackRat.pdb
+D:\Programming\VS2015 Projects\PackRat\PackRat\bin\Release\ManagedWinapi.dll
+D:\Programming\VS2015 Projects\PackRat\PackRat\bin\Release\MWin.dll
+D:\Programming\VS2015 Projects\PackRat\PackRat\bin\Release\ObjectListView.dll
+D:\Programming\VS2015 Projects\PackRat\PackRat\bin\Release\MWin.pdb
+D:\Programming\VS2015 Projects\PackRat\PackRat\bin\Release\ObjectListView.xml
+D:\Programming\VS2015 Projects\PackRat\PackRat\obj\Release\PackRatUI.DbgWin.resources
+D:\Programming\VS2015 Projects\PackRat\PackRat\obj\Release\PackRatUI.PackRatUI.resources
+D:\Programming\VS2015 Projects\PackRat\PackRat\obj\Release\PackRat.Properties.Resources.resources
+D:\Programming\VS2015 Projects\PackRat\PackRat\obj\Release\PackRat.csproj.GenerateResource.Cache
+D:\Programming\VS2015 Projects\PackRat\PackRat\obj\Release\PackRat.exe
+D:\Programming\VS2015 Projects\PackRat\PackRat\obj\Release\PackRat.pdb
+D:\Programming\VS2015 Projects\PackRat\PackRat\obj\Release\PackRat.csprojResolveAssemblyReference.cache
