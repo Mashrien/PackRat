@@ -1,3 +1,6 @@
 This is the older, public-able versin of PackRat. The current incarnation (kept private until there's a stable RC) is vastly superior and considerably cleaner.
 
 This is only here for demonstration purposes.
+
+The end goal of this project is to create very large archives on NAS (backups) and without having to copy any bits of the arhive to the local machine, the archive can be opened remotely and files fetched from the middle of the archive, decompressed/decrypted on-the-fly (using Google's Snappy codec) and dumped on the local machine, ready to use.
+Thus not having to waste time copying the archive file (meant for >50 GB), only pulling individual 'chunks' as needed.
